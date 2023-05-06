@@ -11,6 +11,8 @@ Needs ´api´ and ´no_stream´ enabled.
 
 Install with ´pip install -r requirements.txt´ (go to the extensions folder first and do  ´git clone https://github.com/ChobPT/oobaboogas-webui-langchain_agent/ webui_langchain_agent´)
 
+To trigger simply add /do before the instructions so that you can continue the conversation later on with the context
+
 You can basically enable the tools by just using the documentation basics at https://python.langchain.com/en/latest/modules/agents/tools.html and then add the respective tools at
 
 ![image](https://user-images.githubusercontent.com/45816945/236650063-3220e6f6-5ce9-40b7-8252-43d2cab3ac87.png)
