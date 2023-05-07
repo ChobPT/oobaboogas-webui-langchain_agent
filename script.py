@@ -54,7 +54,7 @@ Use the following format: \
 \
 Question: the input question you must answer\
 Thought: you should always think about what to do\
-Action: the action to take, should be one of [Python REPL]\
+Action: the action to take, should be one of [wikipedia]\
 Action Input: the input to the action\
 Observation: the result of the action\
 ... (this Thought/Action/Action Input/Observation can repeat N times)\
