@@ -1,5 +1,7 @@
 # oobaboogas-webui-langchain_agent
 
+## Currently doing the chain but not outputting directly to chat, working on this as we speak, sorry for the inconvenience
+
 Creates an Langchain Agent which uses the WebUI's API and Wikipedia to work. 
 
 This has been reworked to use the openAI API on the Oobabooga's extension, and requirements have been dramatically shrunk down, generated with pipreqs
