@@ -1,5 +1,7 @@
 # oobaboogas-webui-langchain_agent
 
+## This project is on hold as we try to rewrite the concept. The maij idea is for it to be as simple as possible tonuse and dev for, but at the moment thats just not feasible. Feel free to PR if you want to helo. 
+
 ## Currently doing the chain but not outputting directly to chat, working on this as we speak, sorry for the inconvenience
 
 Creates an Langchain Agent which uses the WebUI's API and Wikipedia to work. 
